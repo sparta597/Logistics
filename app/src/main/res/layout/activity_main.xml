@@ -9,7 +9,7 @@
         android:layout_height="50dp"
         android:background="@drawable/tab_menu_bg">
         <TextView
-            android:id="@+id/tv_top"
+            android:id="@+id/txt_top"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center"
