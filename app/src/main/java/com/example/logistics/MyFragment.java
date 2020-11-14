@@ -3,6 +3,8 @@ package com.example.logistics;
 import android.os.Bundle;
 
 import androidx.databinding.DataBindingUtil;
+import androidx.databinding.Observable;
+import androidx.databinding.ObservableField;
 import androidx.fragment.app.Fragment;
 
 import com.example.logistics.databinding.MyFragmentBinding;
